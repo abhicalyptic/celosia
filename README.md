@@ -5,3 +5,7 @@ SpArk Spectrum of random background shifter
       cd celosia
       pip3 install -r requirements.txt
       python3 install.py
+
+#Test for live urls
+       
+      python3 check.py
