@@ -6,6 +6,6 @@ SpArk Spectrum of random background shifter
       pip3 install -r requirements.txt
       python3 install.py
 
-#Test for live urls
+#Test for dead urls
        
       python3 check.py
